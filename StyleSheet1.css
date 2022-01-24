@@ -1,4 +1,4 @@
-﻿body {
+body {
     background-color: #D1B490;
 }
 
@@ -8,37 +8,60 @@ header > h1 {
     color: #60495A;
 }
 
-nav, .wrapper {
+nav, .wrapper
+{
     text-align: center;
     letter-spacing: 5px;
 }
 
-ol {
+ol
+{
     list-style-type: none;
     color: #26547C;
 }
 
 
-main div > article > h2 {
+main div > article > h2
+{
     color: #CBBAED;
 }
-
-main div > .coding, .intro > p {
+/*
+main div > .coding , .intro > p {
     color: #4E937A;
-}
 
-section > h2 {
+}
+*/
+section > h2 
+{
     color: #CBBAED;
+    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
 }
 
 section > p {
     color: #4E937A;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-ul {
+ul
+{
+    list-style-position: inside;
     color: #721817;
 }
 
-footer {
+
+
+footer 
+{
+    height: 200px;
     text-align: right;
+    
 }
+
+main div > article
+{
+    text-align: center;
+    margin: 20px 10px 20px 10px;
+    padding: 5px 5px 5px 5px;
+}
+
+

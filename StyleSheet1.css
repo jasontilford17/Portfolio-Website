@@ -11,7 +11,7 @@ header > h1 {
 nav, .wrapper
 {
     text-align: center;
-    letter-spacing: 5px;
+    letter-spacing: 15px;
 }
 
 ol
@@ -65,3 +65,9 @@ main div > article
 }
 
 
+.robo
+{
+    height:400px;
+    width:300px;
+   
+}

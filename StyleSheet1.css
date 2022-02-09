@@ -21,22 +21,21 @@ ol
 }
 
 
-main div > article > h2
-{
-    color: #CBBAED;
+main div > article > h2 {
+    color: #7B5E7B;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
 }
 /*
 main div > .coding , .intro > p {
     color: #4E937A;
 
 }
-*/
-section > h2 
-{
-    color: #CBBAED;
-    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
-}
 
+section > h2 {
+    color: #7B5E7B;
+   
+}
+*/
 section > p {
     color: #4E937A;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;

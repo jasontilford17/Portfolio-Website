@@ -22,7 +22,7 @@ ol
 
 
 main div > article > h2 {
-    color: #7B5E7B;
+    color: #1C0221;
     font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
 }
 /*
@@ -52,8 +52,8 @@ ul
 footer 
 {
     height: 200px;
-    text-align: right;
-    
+    text-align: center;
+   
 }
 
 main div > article
